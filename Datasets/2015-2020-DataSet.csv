@@ -1,0 +1,122 @@
+,Date,Type,Operator,Fatalities,Flight type,Phase,Location,Country,Category
+0,2015-02-04 00:00:00.000000,ATR 72-600 (72-212A),TransAsia Airways,43.0,Domestic Scheduled Passenger,Initial Climb,"5,3 km E of Taipei-Sung Shan Airport (TSA)",Taiwan,
+1,2015-02-11 00:00:00.000000,Beechcraft 1900C,Aeropanamericano,4.0,Ferry/positioning,Initial Climb,"4,5 km W of Miami Executive Airport, FL (TMB)",United States of America,
+2,2015-03-24 00:00:00.000000,Airbus A320-211,Germanwings,150.0,International Scheduled Passenger,En Route,17 km SW of Barcelonnette,France,
+3,2015-04-13 00:00:00.000000,Swearingen SA226-TC Metro II,Carson Air,2.0,Cargo,En Route,"N of Vancouver, BC",Canada,
+4,2015-05-09 00:00:00.000000,Airbus A400M Atlas,Airbus Industrie,4.0,Test,Approach,ca 4 km NE of Sevilla Airport (SVQ),Spain,
+5,2015-06-02 00:00:00.000000,Swearingen SA226-TC Metro II,Aeronaves TSM,5.0,Test,En Route,near Querétaro Airport (QRO),Mexico,
+6,2015-06-25 00:00:00.000000,de Havilland Canada DHC-3T Vazar Turbine Otter,Promech Air,9.0,Domestic Non Scheduled Passenger,En Route,"near Ella Lake, Misty Fjords National Monument, AK",United States of America,
+7,2015-08-16 00:00:00.000000,ATR 42-300,Trigana Air Service,54.0,Domestic Scheduled Passenger,En Route,"16,7 km NW of Oksibil Airport (OKL)",Indonesia,
+8,2015-08-20 00:00:00.000000,Let L-410MA,Dubnica Air,3.0,Parachuting,En Route,near Vršatec,Slovakia,
+9,2015-08-20 00:00:00.000000,Let L-410UVP,Dubnica Air,4.0,Parachuting,En Route,near Vršatec,Slovakia,
+10,2015-09-15 00:00:00.000000,de Havilland Canada DHC-3T Texas Turbine Otter,Rainbow King Lodge,3.0,Domestic Non Scheduled Passenger,Initial Climb,"E of Iliamna-East Wind Lake Seaplane Base, AK",United States of America,
+11,2015-10-02 00:00:00.000000,de Havilland Canada DHC-6 Twin Otter 300,Aviastar Mandiri,10.0,Domestic Scheduled Passenger,En Route,Mount Latimojong,Indonesia,
+12,2015-10-14 00:00:00.000000,Cessna 208B Grand Caravan,Microsurvey Aerogeofísica e Consultoria Cientifica,3.0,Survey/research,En Route,"3,6 km NW of Yumbillo",Colombia,
+13,2015-10-31 00:00:00.000000,Airbus A321-231,Metrojet,224.0,Int'l Non Scheduled Passenger,En Route,"ca 50 km SE of Hasna, North Sinai",Egypt,
+14,2015-11-04 00:00:00.000000,Antonov 12BK,Allied Services Limited,41.0,Cargo,Initial Climb,"0,8 km E of Juba Airport (JUB)",South Sudan,
+15,2015-12-11 00:00:00.000000,Cessna 208B Grand Caravan,Wasaya Airways,1.0,Cargo,En Route,"28 km NE of Pickle Lake Airport, ON",Canada,
+16,2016-01-08 00:00:00.000000,Canadair CRJ-200PF,West Air Sweden,2.0,Cargo,En Route,near Akkajaure,Sweden,
+17,2016-02-02 00:00:00.000000,Airbus A321-111,Daallo Airlines,1.0,International Scheduled Passenger,En Route,near Mogadishu International Airport (MGQ),Somalia,
+18,2016-02-24 00:00:00.000000,Viking Air DHC-6 Twin Otter 400,Tara Air,23.0,Domestic Scheduled Passenger,En Route,"Dana, Myagdi district",Nepal,
+19,2016-03-09 00:00:00.000000,Antonov 26B,True Aviation,3.0,Cargo,Approach,3 km off Cox's Bazar Airport (CXB),Bangladesh,
+20,2016-03-19 00:00:00.000000,Boeing 737-8KN (WL),flydubai,62.0,International Scheduled Passenger,Approach,Rostov Airport (ROV),Russia,
+21,2016-04-01 00:00:00.000000,Cessna 208B Grand Caravan,TADSA,3.0,Domestic Non Scheduled Passenger,En Route,near Tayoltita,Mexico,
+22,2016-05-18 00:00:00.000000,Antonov 12B,Silk Way Airlines,7.0,Ferry/positioning,Takeoff,Dwyer Airport (DWR),Afghanistan,
+23,2016-05-19 00:00:00.000000,Airbus A320-232,EgyptAir,66.0,International Scheduled Passenger,En Route,ca 200 km N of Egyptian coast,Mediterranean Sea,
+24,2016-07-01 00:00:00.000000,Ilyushin 76TD,Russian Ministry of Emergency Situations,10.0,Fire fighting,En Route,"9 km ESE Rybnyi Uyan, Kachug Region",Russia,
+25,2016-07-20 00:00:00.000000,Cessna 208B Grand Caravan EX,Joy General Aviation,5.0,Domestic Non Scheduled Passenger,Takeoff,off Jinshan City Beach,China,
+26,2016-08-31 00:00:00.000000,Cessna 208B Grand Caravan EX,Ravn Connect,3.0,Domestic Scheduled Passenger,En Route,"10 km NW of Russian Mission Airport, AK (RSH)",United States of America,
+27,2016-09-30 00:00:00.000000,Cessna 208B Grand Caravan,Llanera de Aviación,4.0,Domestic Non Scheduled Passenger,Unknown,near San Antonio de Prado,Colombia,
+28,2016-10-02 00:00:00.000000,Cessna 208B Grand Caravan,Ravn Connect,3.0,Domestic Scheduled Passenger,En Route,"19 km W of Togiak, AK",United States of America,
+29,2016-10-24 00:00:00.000000,Swearingen SA227-AT Expediter,CAE Aviation,5.0,Survey/research,Takeoff,Malta-Luqa Airport (MLA),Malta,
+30,2016-10-31 00:00:00.000000,de Havilland Canada DHC-4T Caribou,Puncak Regency Administration,4.0,Cargo,En Route,12 km S of Ilaga Airport (ILA),Indonesia,
+31,2016-11-28 00:00:00.000000,Avro RJ.85,LAMIA Bolivia,71.0,International Non Scheduled Passenger,En Route,S of Medellin,Colombia,
+32,2016-12-05 00:00:00.000000,Swearingen SA227-AC Metro III,Key Lime Air,1.0,Cargo,En Route,"near Pelham, GA",USA,
+33,2016-12-07 00:00:00.000000,ATR 42-500,PIA,48.0,Domestic Scheduled Passenger,En Route,near Havelian,Pakistan,
+34,2016-12-20 00:00:00.000000,Boeign 727-200F,Aerosucre Colombia,5.0,Cargo,Takeoff,near Puerto Carreño,Colombia,
+35,2017-01-16 00:00:00.000000,Boeing 747-412F,"THY Turkish Airlines, opb MyCargo",4.0,Cargo,Approach,1 km W of Bishkek-Manas International Airport (FRU),Kyrgyzstan,
+36,2017-01-26 00:00:00.000000,Grumman G-73 Mallard,private,2.0,Demonstration,Manoeuvering,"Swan River, Perth, WA",Australia,
+37,2017-02-09 00:00:00.000000,CASA C-212 Aviocar 300,Botswana Defence Force Air Wing,3.0,Military,En Route,near Thebephatshwa Air Base,Botswana,
+38,2017-04-12 00:00:00.000000,Cessna 208 Caravan I,Spirit Avia Sentosa,1.0,Cargo,En Route,13 km N of Oksibil Airport (OKL),Indonesia,
+39,2017-04-29 00:00:00.000000,Antonov An-26,Cuban Air Force,8.0,Military,En Route,San Cristobal,Cuba,
+40,2017-05-01 00:00:00.000000,Cessna 208B Grand Caravan,Colombian Army,8.0,Military,En Route,near Facatativá,Colombia,
+41,2017-05-01 00:00:00.000000,Cessna 208B Grand Caravan,Grant Aviation,1.0,Domestic Scheduled Passenger,En Route,"Chignik, AK",United States of America,
+42,2017-05-05 00:00:00.000000,Shorts 330-200,Air Cargo Carriers,2.0,Cargo,Landing,"Charleston-Yeager Airport, WV (CRW)",United States of America,
+43,2017-05-27 00:00:00.000000,Let L-410UVP-E20,Summit Air,2.0,Cargo,Landing,Lukla-Tenzing-Hillary Airport (LUA),Nepal,
+45,2017-05-30 00:00:00.000000,PZL-Mielec M28 Skytruck,Nepal Army Air Wing,1.0,Military,Landing,Bajura Airport (BJU),Nepal,
+44,2017-05-30 00:00:00.000000,Antonov An-26,Russian Air Force,1.0,Military,Approach,Balashov Airfield,Russia,
+46,2017-06-07 00:00:00.000000,Shaanxi Y-8F-200W,Myanmar Air Force,122.0,Military,En Route,off Dawei,Myanmar,
+47,2017-07-10 00:00:00.000000,Lockheed KC-130T Hercules,USMC,16.0,Military,En Route,"near Itta Bena, MS",USA,
+48,2017-08-16 00:00:00.000000,Let L-410UVP-E3,Honduras Air Force,1.0,Military,Unknown,Comayagua-Palmerola Air Base,Honduras,
+49,2017-09-30 00:00:00.000000,Antonov An-12B,DRC Air Force,8.0,Military,Unknown,near Kinshasa-N'Djili Airport ,Dem. Rep. Congo,
+50,2017-10-03 00:00:00.000000,Antonov An-28,East Wing,5.0,Ambulance,En Route,28 km WNW of Almaty Airport (ALA),Kazakhstan,
+51,2017-10-12 00:00:00.000000,Embraer EMB-120ER,Guicango,7.0,Ambulance,En Route,near Cuílo,Angola,
+52,2017-10-14 00:00:00.000000,Antonov An-26-100,Valan International Cargo Charter,4.0,Cargo,Approach,off Abidjan-Felix Houphouet Boigny Airport (ABJ),Cote d'Ivoire,
+53,2017-10-17 00:00:00.000000,Cessna 208 Caravan I,Greenpeace Brasil,1.0,Survey/research,Landing,"Rio Negro, Parque Nacional de Anavilhanas, AM",Brazil,
+54,2017-11-15 00:00:00.000000,Cessna 208B Grand Caravan,Coastal Aviation,11.0,Passenger,En Route,Empakaai area,Tanzania,
+55,2017-11-15 00:00:00.000000,Let L-410UVP-E20,Khabarovsk Avia,6.0,Domestic Scheduled Passenger,Approach,"1,2 km SSW of Nelkan Airport",Russia,
+56,2017-11-22 00:00:00.000000,Grumman C-2A,US Navy,3.0,Military,En Route,off Okinawa,Pacific Ocean,
+57,2017-12-13 00:00:00.000000,ATR 42-320,West Wind Aviation,1.0,Domestic Scheduled Passenger,Initial Climb,"near Fond-du-Lac Airport, SK",Canada,
+58,2017-12-31 00:00:00.000000,Cessna 208B Grand Caravan,Nature Air,12.0,Domestic Non-Scheduled Passenger,Initial Climb,near Punta Islita,Costa Rica,
+59,2018-01-17 00:00:00.000000,IPTN/CASA CN-235M-100,Türk Hava Kuvvetleri (Turkish Air Force),3.0,Military,unknown,"Hodulluca Mevkii, Yalvaç district",Turkey,
+60,2018-01-29 00:00:00.000000,Shaanxi Y-8GX-3,People's Liberation Army - Air Force - PLAAF,12.0,Military,En Route,"Zhengchang, Suiyang County, Guizhou Province",China,
+61,2018-02-11 00:00:00.000000,Antonov An-148-100B,Saratov Airlines,71.0,Domestic Scheduled Passenger,En Route,"near Stepanovskoye, Ramenskoye District",Russia,Loss of control
+62,2018-02-18 00:00:00.000000,ATR 72-212,Iran Aseman Airlines,66.0,Domestic Scheduled Passenger,En Route,near Yasuj Airport (YES),Iran,CFIT
+63,2018-03-06 00:00:00.000000,Antonov An-26,Russian Air Force,39.0,Military,Approach,near Latakia-Khmeimim Air Base (LTK),Syria,
+64,2018-03-12 00:00:00.000000,de Havilland Canada DHC-8-402Q Dash 8,US-Bangla Airlines,51.0,International Scheduled Passenger,Landing,Kathmandu-Tribhuvan Airport (KTM),Nepal,Runway excursion
+65,2018-04-11 00:00:00.000000,Ilyushin Il-76TD,Al Quwwat al-Jawwiya al-Jaza'eriya,257.0,Military,Initial Climb,near Boufarik Airport,Algeria,
+66,2018-04-17 00:00:00.000000,Boeing 737-7H4 (WL),Southwest Airlines,1.0,Domestic Scheduled Passenger,En Route,"105 km NW of Philadelphia, PA",USA,
+67,2018-04-29 00:00:00.000000,Lockheed C-130H-30 Hercules,Libyan Air Force,3.0,Military,Initial Climb,near Sharara Airstrip,Libya,
+68,2018-05-02 00:00:00.000000,Beechcraft C99 Commuter,Servicio Aéreo de Policia,4.0,Military,unknown,Ibagué,Colombia,
+69,2018-05-02 00:00:00.000000,Lockheed WC-130H Hercules,United States Air Force - USAF,9.0,Military,Initial Climb,"near Savannah/Hilton Head International Airport, GA (SAV)",USA,
+70,2018-05-13 00:00:00.000000,Cessna 208B Grand Caravan,Irish Parachute Club,2.0,Parachute,Approach,near Clonbullogue Aerodrome,Ireland,
+71,2018-05-15 00:00:00.000000,Cessna 208B Grand Caravan,private,2.0,Illegal,unknown,Tuzantán,Mexico,
+72,2018-05-16 00:00:00.000000,Cessna 208B Grand Caravan,Makalu Air,2.0,Cargo,En Route,Simikot Pass,Nepal,CFIT
+73,2018-05-18 00:00:00.000000,Boeing 737-201 Adv.,Cubana de Aviación,112.0,Domestic Scheduled Passenger,Initial Climb,near Havana-José Martí International Airport (HAV),Cuba,Loss of control
+74,2018-06-03 00:00:00.000000,Lockheed C-130H Hercules,Al Quwwat al-Jawwiya al-Jaza'eriya,1.0,Military,Approach,Biskra Airport (BSK),Algeria,
+75,2018-06-05 00:00:00.000000,Cessna 208B Grand Caravan,Fly-SAX,10.0,Domestic Scheduled Passenger,En Route,near Njabini,Kenya,
+76,2018-06-24 00:00:00.000000,Let L-410UVP,Eagle Air (Guinea),4.0,Cargo,En Route,"Souguéta, Kindia",Guinea,
+77,2018-07-10 00:00:00.000000,Convair CV-340,Rovos Air,1.0,Private,Approach,near Pretoria-Wonderboom Airport (PRY),South Africa,
+78,2018-08-04 00:00:00.000000,Junkers Ju-52/3mg4e,Ju-Air,20.0,Domestic Non-Scheduled Passenger,En route,Piz Segnas,Switzerland,Loss of control
+79,2018-08-10 00:00:00.000000,de Havilland Canada DHC-8-402Q Dash 8,Horizon Air,1.0,Illegal,En route,"Ketron Island, WA",USA,
+80,2018-08-30 00:00:00.000000,de Havilland Canada DHC-6 Twin Otter 300,Ethiopian Air Force,18.0,Military,En Route,near Mojo,Ethiopia,
+81,2018-09-09 00:00:00.000000,Let L-410UVP,Slaver Company,20.0,Passenger,Approach,Yirol Airport,South Sudan,
+82,2018-09-17 00:00:00.000000,Ilyushin Il-20M,Russian Air Force,15.0,Military,En Route,off Latakia-Khmeimim Air Base (LTK),Syria,
+83,2018-09-27 00:00:00.000000,Cessna 208B Supervan 900,CGG Aviation Australia,1.0,Ferry,En route,"off Sendai, Japan",Pacific Ocean,
+84,2018-09-28 00:00:00.000000,Boeing 737-8BK (WL),Air Niugini,1.0,International Scheduled Passenger,Approach,off Chuuk/Weno International Airport (TKK),Micronesia,CFIT
+85,2018-10-29 00:00:00.000000,Boeing 737 MAX 8,Lion Air,189.0,Domestic Scheduled Passenger,En Route,off Tanjung Bungin,Indonesia,Loss of control
+86,2018-11-09 00:00:00.000000,Boeing 757-200,Fly Jamaica Airways,1.0,International Scheduled Passenger,Landing,Georgetown-Cheddi Jagan International Airport,Guyana,Runway excursion
+87,2018-12-20 00:00:00.000000,Antonov An-26,Gomair,7.0,Cargo,En route,near Kinshasa,Dem. Rep. Congo,
+88,2019-01-03 00:00:00.000000,Yunshuji Y-12,Sri Lanka Air Force,4.0,Military,En Route,near Haputale,Sri Lanka,
+89,2019-01-14 00:00:00.000000,Boeing 707,Saha Air,15.0,Military,Landing,Fat'h,Iran,Runway excursion
+90,2019-01-21 00:00:00.000000,AMI DC-3TP,Priority Air Charter,2.0,Ferry,Takeoff,near Kidron,USA,
+91,2019-02-08 00:00:00.000000,Convair C-131,Conquest Air Cargo,1.0,Cargo,En route,"off Miami, FL",USA,Ditching
+92,2019-02-23 00:00:00.000000,Boeing 767-300,Atlas Air/Amazon,3.0,Cargo,En route,"near Houston, TX",USA,Loss of control
+93,2019-03-09 00:00:00.000000,Douglas DC-3,LASER,14.0,Passenger,En route,near Villavicencio,Colombia,Emergency landing
+94,2019-03-10 00:00:00.000000,Boeing 737 MAX 8,Ethiopian Airlines,157.0,Scheduled Passenger,En route,near Addis Ababa,Ethiopia,Loss of control
+95,2019-04-14 00:00:00.000000,Let L-410,Summit Air,1.0,Ferry,Takeoff,Lukla,Nepal,
+96,2019-05-06 00:00:00.000000,Sukhoi Superjet,Aeroflot,41.0,Scheduled Passenger,Landing,Moscow,Russia,Emergency landing
+97,2019-05-13 00:00:00.000000,DHC-3T,Taquan,1.0,Non-Scheduled Passenger,En route,"Ketchikan, AK",USA,Mid-air collision
+98,2019-06-03 00:00:00.000000,Antonov An-32,Indian Air Force,13.0,Military,En Route,near Lipo,India,
+99,2019-06-27 00:00:00.000000,Antonov An-24,Angara,2.0,Scheduled Passenger,Landing,Nizhneangarsk,Russia,Runway excursion
+100,2019-07-26 00:00:00.000000,Cessna 208,Seair,4.0,Non-Scheduled Passenger,En route,Addenbroke Island,Canada,CFIT
+101,2019-07-30 00:00:00.000000,Beech B300,Pakistan Army,5.0,Military,Unknown,Rawalpindi,Pakistan,
+102,2019-08-06 00:00:00.000000,Cessna 208B,Alkan Air,2.0,Non-Scheduled Passenger,En route,near Mayo,Canada,
+103,2019-09-11 00:00:00.000000,Cessna 208,GoJump,1.0,Parchuting,Approach,Gransee,Germany,
+104,2019-09-11 00:00:00.000000,Convair CV-440,Ferreteria e Implementos S.F.,2.0,Cargo,Approach,"Toledo, OH",USA,
+105,2019-09-18 00:00:00.000000,DHC-6,Rimbun Air,4.0,Cargo,En route,near Ilaga,Indonesia,CFIT
+106,2019-09-23 00:00:00.000000,Cessna 208B,Auric Air,2.0,Non-Scheduled Passenger,Takeoff,Seronera,Tanzania,
+107,2019-09-24 00:00:00.000000,Cessna 208,Royal Rainmaking ,2.0,Military,En Route,Sai Yok district,Thailand,
+108,2019-10-02 00:00:00.000000,Boeing B-17,The Collings Foundation,7.0,Non-Scheduled Passenger,Landing,"Windsor Locks, CT",USA,Engine failure
+109,2019-10-04 00:00:00.000000,Antonov An-12,Ukraine Air Alliance,5.0,Cargo,Approach,nr Lviv,Ukraine,CFIT
+110,2019-10-10 00:00:00.000000,Antonov An-72,Congo Air Force,8.0,Military,En Route,near Kole,D.R. Congo,
+111,2019-10-17 00:00:00.000000,Saab 2000,PenAir,1.0,Scheduled Passenger,Landing,"Unalaska, AK",USA,Runway excursion
+112,2019-10-26 00:00:00.000000,DHC-3T,Blue Water Av. Svc,3.0,Non-Scheduled Passenger,Approach,"Family Lake, MB ",Canada,Structural failure
+113,2019-11-24 00:00:00.000000,Dornier 228,Busy Bee,20.0,Scheduled Passenger,Takeoff,Goma,DRC,
+114,2019-12-09 00:00:00.000000,Cessna 208B,Martinaire,1.0,Cargo,En route,"near Victoria Regional Airport, TX",USA,
+115,2019-12-09 00:00:00.000000,Lockheed C-130,Chile Air Force,38.0,Military,En Route,S of Punta Arenas,Atlantic Ocean,
+116,2019-12-24 00:00:00.000000,Cessna 208B,Calafia Airlines,2.0,Scheduled Passenger,En route,Tastiota,Mexico,
+117,2019-12-27 00:00:00.000000,Fokker 100,Bek Air,12.0,Scheduled Passenger,Takeoff,Almaty,Kazakhstan,Loss of control
+118,2020-01-02 00:00:00.000000,Antonov An-12,Sudan Air Force,18.0,Military,Unknown,near Geneina,Sudan,
+119,2020-01-08 00:00:00.000000,Boeing 737-800,Ukraine Int. Airlines,176.0,Passenger,En route,near Tehran,Iran,Shot down
+120,2020-01-23 00:00:00.000000,Lockheed C-130,Coulson,3.0,Firefighting,En route,"near Cooma, NSW",Australia,
