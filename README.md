@@ -35,6 +35,9 @@ Building dashboards and blogs using Power Bi.
 
 ## Results
 
-![A remote image](https://github.com/adanque/Validating-Accuracy-and-Loss-for-Deep-Learning/blob/main/results/model_1/Assignment_10.2_Model%20Accuracy%20Validation.png)
-![A remote image](https://github.com/adanque/Validating-Accuracy-and-Loss-for-Deep-Learning/blob/main/results/model_1/Assignment_10.3_Model%20Accuracy%20Validation.png)
-![A remote image](https://github.com/adanque/Validating-Accuracy-and-Loss-for-Deep-Learning/blob/main/results/model_1/Assignment_10.4_Model%20Accuracy%20Validation.png)
+![A remote image](https://github.com/adanque/Building-a-Dashboard-and-Blog-with-Power-Bi/blob/main/AlanDanque-Task1-Airline_Fatality_Trends_Dashboard1024_1.jpg)
+![A remote image](https://github.com/adanque/Building-a-Dashboard-and-Blog-with-Power-Bi/blob/main/AlanDanque-Task1-Airline_Fatality_Trends_Dashboard1024_2.jpg)
+![A remote image](https://github.com/adanque/Building-a-Dashboard-and-Blog-with-Power-Bi/blob/main/AlanDanque-Task1-Airline_Fatality_Trends_Dashboard1024_3.jpg)
+![A remote image](https://github.com/adanque/Building-a-Dashboard-and-Blog-with-Power-Bi/blob/main/AlanDanque-Task1-Airline_Fatality_Trends_Dashboard1024_4.jpg)
+![A remote image](https://github.com/adanque/Building-a-Dashboard-and-Blog-with-Power-Bi/blob/main/AlanDanque-Task1-Airline_Fatality_Trends_Dashboard1024_5.jpg)
+![A remote image](https://github.com/adanque/Building-a-Dashboard-and-Blog-with-Power-Bi/blob/main/AlanDanque-Task1-Airline_Fatality_Trends_Dashboard1024_6.jpg)
