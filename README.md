@@ -27,10 +27,10 @@ Building dashboards and blogs using Power Bi.
 
 | File Name  | Description |
 | ------ | ------ |
-| AirlineAnalysis.pbix | Sentence tokenization and punctuation removal |
-| Blog-Post-Fictious-Airways.pbix | NGram tokenization |
-| DataWrangle.py | One hot encode for vectorization from numerical vector |
-| EDA.py | Deep learning using the IMDB dataset using a sequential model and embedding. |
+| AirlineAnalysis.pbix | Power Bi Airline Data Analysis |
+| Blog-Post-Fictious-Airways.pbix | Power Bi Blog Assets |
+| DataWrangle.py | Data cleansing and transformations |
+| EDA.py | Exploratory data analysis. |
 | ExecutiveSummarySlides.pbix | Deep learning LSTM for model performance metrics and accuracy validation |
 
 ## Results
